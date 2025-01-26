@@ -13,7 +13,7 @@ function App() {
           </div>
         <p className='text-white font-mono text-lg'>Organize your tasks better</p>
       </div>
-      <a href="./downloads/Cherrytop_0.1.0_x64_en-US.zip" download className='text-white'>
+      <a href="./Cherrytop_0.1.0_x64_en-US.zip" download className='text-white'>
         <button className="py-3 px-4 bg-[#7e2a42] rounded-2xl font-sans shadow-sm font-semibold cursor-pointer hover:bg-[#912847]">Download for Windows</button>
       </a>
     </div>
